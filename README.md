@@ -64,5 +64,127 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-PeopleSearch.im is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://peoplesearch.im
+PeopleSearch.im provides AI-powered people search and verified professional email lookup. Users can describe a target person or role in natural language and receive profile details and work emails, paying per credit. The service offers tools for email verification, format checking, and reverse lookup, with a free starter credit and tiered pricing.
+
+**Areas:** Company · People Search · Email Lookup · Artificial Intelligence · Software-as-a-Service
+
+## PeopleSearch.im on APIs.io
+
+Everything profiled for PeopleSearch.im is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/peoplesearch-im/](https://apis.io/providers/peoplesearch-im/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [PeopleSearch.im Credits API](https://apis.io/apis/peoplesearch-im/peoplesearch-im-credits-api/) — The Credits API from PeopleSearch.im — 1 operation(s) for credits.
+- [PeopleSearch.im Deliver API](https://apis.io/apis/peoplesearch-im/peoplesearch-im-deliver-api/) — The Deliver API from PeopleSearch.im — 1 operation(s) for deliver.
+- [PeopleSearch.im Email API](https://apis.io/apis/peoplesearch-im/peoplesearch-im-email-api/) — The Email API from PeopleSearch.im — 1 operation(s) for email.
+- [PeopleSearch.im Reveal API](https://apis.io/apis/peoplesearch-im/peoplesearch-im-reveal-api/) — The Reveal API from PeopleSearch.im — 1 operation(s) for reveal.
+- [PeopleSearch.im Search API](https://apis.io/apis/peoplesearch-im/peoplesearch-im-search-api/) — The Search API from PeopleSearch.im — 1 operation(s) for search.
+- [PeopleSearch.im Tools API](https://apis.io/apis/peoplesearch-im/peoplesearch-im-tools-api/) — The Tools API from PeopleSearch.im — 1 operation(s) for tools.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Peoplesearch Im Agentic Access](https://apis.io/agentic-access/peoplesearch-im/peoplesearch-im-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PeopleFilters](https://apis.io/schemas/peoplesearch-im/peoplesearch-im-people-filters/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Peoplesearch Im Context](https://apis.io/jsonld/peoplesearch-im/peoplesearch-im-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [PeopleSearch.im API Rules](https://apis.io/rules/peoplesearch-im/peoplesearch-im-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Peoplesearch Im Authentication](https://apis.io/security/peoplesearch-im/peoplesearch-im-authentication/)
+- [Peoplesearch Im Domain Security](https://apis.io/security/peoplesearch-im/peoplesearch-im-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Peoplesearch Im Plans Pricing](https://apis.io/plans/peoplesearch-im/peoplesearch-im-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://peoplesearch.im)
+- [Documentation](https://peoplesearch.im/developers)
+- [Pricing](https://peoplesearch.im/pricing)
+- [Sign up](https://peoplesearch.im/login?mode=signup)
+- [Blog](https://peoplesearch.im/blog)
+- [Terms of service](https://peoplesearch.im/legal/terms)
+- [Privacy policy](https://peoplesearch.im/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 44.4** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 58.5 |
+| Contract governance | 22.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 76.3 |
+
+**Agent readiness 40.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/peoplesearch-im/](https://apis.io/providers/peoplesearch-im/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for PeopleSearch.im: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/peoplesearch-im/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
